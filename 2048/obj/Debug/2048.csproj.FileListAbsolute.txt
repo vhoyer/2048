@@ -1,0 +1,24 @@
+C:\Users\ALUNOS\Documents\Prova 1IA Rodrigo Pereira Monteiro\2048\2048\bin\Debug\2048.exe
+C:\Users\ALUNOS\Documents\Prova 1IA Rodrigo Pereira Monteiro\2048\2048\bin\Debug\2048.pdb
+C:\Users\ALUNOS\Documents\Prova 1IA Rodrigo Pereira Monteiro\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+C:\Users\ALUNOS\Documents\Prova 1IA Rodrigo Pereira Monteiro\2048\2048\obj\Debug\_2048.Form1.resources
+C:\Users\ALUNOS\Documents\Prova 1IA Rodrigo Pereira Monteiro\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+C:\Users\ALUNOS\Documents\Prova 1IA Rodrigo Pereira Monteiro\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+C:\Users\ALUNOS\Documents\Prova 1IA Rodrigo Pereira Monteiro\2048\2048\obj\Debug\2048.exe
+C:\Users\ALUNOS\Documents\Prova 1IA Rodrigo Pereira Monteiro\2048\2048\obj\Debug\2048.pdb
+C:\Users\ALUNOS\Music\vh1\2048\2048\obj\Debug\2048.exe
+C:\Users\ALUNOS\Music\vh1\2048\2048\obj\Debug\2048.pdb
+C:\Users\ALUNOS\Music\vh1\2048\2048\bin\Debug\2048.exe
+C:\Users\ALUNOS\Music\vh1\2048\2048\bin\Debug\2048.pdb
+C:\Users\ALUNOS\Music\vh1\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+C:\Users\ALUNOS\Music\vh1\2048\2048\obj\Debug\_2048.Form1.resources
+C:\Users\ALUNOS\Music\vh1\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+C:\Users\ALUNOS\Music\vh1\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+C:\Users\vhoye\OneDrive\programas\Csharp\2048\2048\obj\Debug\2048.exe
+C:\Users\vhoye\OneDrive\programas\Csharp\2048\2048\obj\Debug\2048.pdb
+C:\Users\vhoye\OneDrive\programas\Csharp\2048\2048\bin\Debug\2048.exe
+C:\Users\vhoye\OneDrive\programas\Csharp\2048\2048\bin\Debug\2048.pdb
+C:\Users\vhoye\OneDrive\programas\Csharp\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+C:\Users\vhoye\OneDrive\programas\Csharp\2048\2048\obj\Debug\_2048.Form1.resources
+C:\Users\vhoye\OneDrive\programas\Csharp\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+C:\Users\vhoye\OneDrive\programas\Csharp\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
